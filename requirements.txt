@@ -1,0 +1,21 @@
+#Langchain-core
+langchain
+langchain-core
+langchain-community
+langchain-groq 
+#huggingface integration
+langchain-huggingface
+huggingface-hub
+transformers
+
+#environment variable management
+python-dotenv
+
+#machineLearningUtilities
+numpy
+scikit-learn
+
+youtube-transcript-api 
+
+faiss-cpu
+tiktoken
